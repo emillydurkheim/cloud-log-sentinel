@@ -1,0 +1,9 @@
+# Ocultar arquivos de chave e ambiente
+.env
+*.key
+*.pem
+
+# Ocultar pastas de ambiente virtual e cache do Python
+__pycache__/
+venv/
+.venv/

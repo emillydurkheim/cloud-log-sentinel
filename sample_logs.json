@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2026-10-21T10:00:00Z",
+    "user": "maria@empresa.com",
+    "ip": "192.168.1.50",
+    "status": "SUCCESS",
+    "action": "LOGIN"
+  },
+  {
+    "timestamp": "2026-10-21T10:05:12Z",
+    "user": "admin@empresa.com",
+    "ip": "185.220.101.5",
+    "status": "FAILED",
+    "action": "LOGIN_ATTEMPT"
+  },
+  {
+    "timestamp": "2026-10-21T10:05:14Z",
+    "user": "admin@empresa.com",
+    "ip": "185.220.101.5",
+    "status": "FAILED",
+    "action": "LOGIN_ATTEMPT"
+  },
+  {
+    "timestamp": "2026-10-21T10:05:16Z",
+    "user": "admin@empresa.com",
+    "ip": "185.220.101.5",
+    "status": "FAILED",
+    "action": "LOGIN_ATTEMPT"
+  }
+]
